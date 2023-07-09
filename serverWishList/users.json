@@ -1,0 +1,22 @@
+[
+  {
+    "id": "01261ca7-a360-426e-99af-6b5695df9fdb",
+    "login": "dima",
+    "wish": {},
+    "avatar": "avatars/01261ca7-a360-426e-99af-6b5695df9fdb.jpg",
+    "birthdate": "undefined/undefined/undefined",
+    "password": "Qwerty2023",
+    "description": "Вступительный текст:"
+  },
+  {
+    "id": "ffaf1a04-661c-4812-bef5-6bb2680db7fe",
+    "login": "dag",
+    "wish": {},
+    "avatar": "avatars/ffaf1a04-661c-4812-bef5-6bb2680db7fe.jpg",
+    "birthdate": "9/10/1941",
+    "password": "Qwerty2023",
+    "name": "Виктор",
+    "surname": "Задумчивый",
+    "description": "hello"
+  }
+]
